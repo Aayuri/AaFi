@@ -11,9 +11,7 @@ description: Usage and guide to using the Fake AP Spammer Module.
 * When choosing a wordlist two options are shown. However, when you use a custom wordlist it allows the spamming of one network except it appends a number at the end of the word you choose for the network. 
 * When choosing default wordlist it will output alot of networks from a text file. However, you can make changes to which network is shown on the text file. 
 
-
-
-## Interface Types: 
+## Interface Types:
 
 * `eth0`
 * `lo`
