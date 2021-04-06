@@ -1,2 +1,3 @@
-![AAFI](https://user-images.githubusercontent.com/49574294/113782855-768dea80-96f8-11eb-9b4b-b6b232f47de7.jpg)
+![AAFI](https://user-images.githubusercontent.com/49574294/113784952-d5089800-96fb-11eb-99c4-3db45eb0fb07.png)
+
 
