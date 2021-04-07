@@ -12,7 +12,7 @@ For a more in depth installation please check out the [Wiki](https://docs.aafi.x
 
 ## Installing Wordlist for Cracking Module
 
-Wordlists for Cracking: [Wordlists](https://www.mediafire.com/file/8kfjjpfbmbhb2ij/wordlist1.txt/file)
+Wordlists for Cracking: [Wordlists](https://www.mediafire.com/folder/e8ltrg1zo3oy9/Wordlists)
 
 ### Installing Dependencies
 
