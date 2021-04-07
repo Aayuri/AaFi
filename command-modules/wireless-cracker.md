@@ -8,7 +8,7 @@ description: Usage and guide to using Wireless Cracker
 
 To get started using the wireless cracker module select the attack you wish to execute. 
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%282%29%20%281%29.png)
 
 ## Interfaces: 
 
