@@ -4,7 +4,9 @@ description: Guide how to install AaFi dependencies.
 
 # Installing AaFi
 
-![AAFI](https://user-images.githubusercontent.com/49574294/113787890-780fe080-9701-11eb-9af6-4813a7985928.png) For a more in depth installation please check out the [Wiki](https://docs.aafi.xyz)
+![AAFI](https://user-images.githubusercontent.com/49574294/113787890-780fe080-9701-11eb-9af6-4813a7985928.png) 
+
+For a more in depth installation please check out the [Wiki](https://docs.aafi.xyz)
 
 ## Installing Dependencies
 
