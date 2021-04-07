@@ -3,8 +3,9 @@ description: Guide how to install AaFi dependencies.
 ---
 
 # Installing AaFi
-![AAFI](https://user-images.githubusercontent.com/49574294/113787890-780fe080-9701-11eb-9af6-4813a7985928.png)
-For a more in depth installation please check out the [Wiki](https://docs.aafi.xyz "AaFi Wiki")
+
+![AAFI](https://user-images.githubusercontent.com/49574294/113787890-780fe080-9701-11eb-9af6-4813a7985928.png) For a more in depth installation please check out the [Wiki](https://docs.aafi.xyz)
+
 ## Installing Dependencies
 
 To install the required dependencies simply manually install them from here or use the automatic install script `./install.sh` that is included with the install package of AaFi.
@@ -26,5 +27,5 @@ After installing AaFi from the Github Repository go to the AaFi folder found in 
 
 ## Disclaimer:
 
-AaFi was created and is used to educate others please do not use this tool for malicious purposes. Usage of all tools on the repos for attacking targets without prior mutual consent is illegal. It is the end users responsibility to obey the law. 
+AaFi was created and is used to educate others please do not use this tool for malicious purposes. Usage of all tools on the repos for attacking targets without prior mutual consent is illegal. It is the end users responsibility to obey the law.
 
