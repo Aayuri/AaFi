@@ -8,4 +8,6 @@
   * [Deauth](command-modules/deauth.md)
   * [Fake AP Spammer](command-modules/fake-ap-spammer.md)
 * [Github](https://github.com/Aayuri/AaFi)
+* [FAQ](faq/README.md)
+  * [Design Progress](faq/design-progress.md)
 

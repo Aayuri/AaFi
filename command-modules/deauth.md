@@ -22,5 +22,5 @@ From there you should be greeted with the AaFi Menu Select which deauth attack y
 
 Upon running the module it will ask you for a BSSID you should be able to find the BSSID listed at the top as shown here. Then enter the BSSID to contine the attack process. 
 
-![](../.gitbook/assets/image%20%284%29%20%281%29.png)
+![](../.gitbook/assets/image%20%284%29%20%282%29%20%282%29%20%281%29.png)
 
