@@ -8,6 +8,7 @@ description: Recent updates to AaFi and changes to come.
 
 | Date | Feature |
 | :--- | :--- |
+| _**April 24th, 2021**_ | Added FAQ Page. |
 | _**April 5th, 2021**_ | Added Wireless Cracker Module. |
 | _**March 30th, 2021**_ | Rouge/Fake AP Issue Fixed |
 | _**March 3rd, 2021**_ | \[Feature WIP\] Adding Rouge/Fake AP. |
