@@ -1,6 +1,6 @@
 # Design Progress
 
-## Materials Needed:
+## Materials Needed for AaFi:
 
 * Raspberry Pi Zero W
 * 32 GB Micro SD Card
