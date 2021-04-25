@@ -20,3 +20,9 @@ description: Usage and guide to using the Fake AP Spammer Module.
 * `wlan0`
 * `wlan1`
 
+## Wordlist Download:
+
+Download: [https://www.mediafire.com/folder/e8ltrg1zo3oy9/Wordlists](https://www.mediafire.com/folder/e8ltrg1zo3oy9/Wordlists)
+
+
+
