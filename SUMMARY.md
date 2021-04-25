@@ -10,4 +10,6 @@
 * [Github](https://github.com/Aayuri/AaFi)
 * [FAQ](faq/README.md)
   * [Design Progress](faq/design-progress.md)
+  * [Phases / Milestones on AaFi](faq/phases-milestones-on-aafi.md)
+  * [Challenges Working on AaFi](faq/challenges-working-on-aafi.md)
 
