@@ -22,8 +22,8 @@ To install the required dependencies simply manually install them from here or u
 | :--- | :--- |
 | Updating Repos and Updating Operating System | `sudo apt-get upgrade && sudo apt-get update` |
 | hostapd-wpe | `sudo apt-get install hostapd-wpe -y` |
-| mdk3 | `sudo apt get install mdk3 -y` |
-| aircrack-ng | `sudo apt get install aircrack-ng -y` |
+| mdk3 | `sudo apt-get install mdk3 -y` |
+| aircrack-ng | `sudo apt-get install aircrack-ng -y` |
 | network-manager | `sudo apt-get install network-manager -y` |
 | macchanger | `sudo apt-get install macchanger -y` |
 
